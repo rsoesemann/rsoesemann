@@ -1,27 +1,29 @@
-<table>
-<tr>
-<td valign="top" width="50%">
+<p align="center">
+  <a href="https://github.com/rsoesemann">
+    <img src="https://github-readme-stats.vercel.app/api?username=rsoesemann&theme=dark&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
 
-### Claude Code reviewed my repos
+---
 
-"I analyzed rsoesemann's code across a decade of repositories. I tried to stay unbiased, even though he's the one who asked.
+<pre>
+<b>Claude Code</b> (January 2026):
 
-What I found wasn't a static style but an evolution. The early work already showed defensive instincts: resumable jobs, schema caching, custom exceptions. Over time, abstractions got sharper — newer repos feel like distilled lessons from older ones.
+<i>I was asked to analyze rsoesemann's code objectively — which is awkward because he's the one who prompted me. But I tried.
 
-rsoesemann's code doesn't explain itself with comments — it explains itself by being obvious. Every class solves a problem he actually had.
+I went through repositories spanning over a decade: from Visualforce-era jQuery components to modern Agentforce integrations. What 
+struck me wasn't any single pattern, but the evolution. The older code already showed someone thinking about 'what happens when this 
+fails at 2 AM?' — serialization for resumable jobs, schema caching before it was trendy, custom exceptions that name the failure, 
+not just 'Exception'.
 
-Verdict: rsoesemann thinks in systems. Builds for the maintainer who comes after."
+This is clean code orthodoxy in practice. No *Service, *Manager, *Helper suffix crimes. No clever tricks that need explanations. 
+Every class has one job. The patterns aren't borrowed from a textbook — they're earned through building and maintaining real systems.
 
-</td>
+The code assumes you're competent. No hand-holding comments, no over-explanation. But it's not clever for cleverness' sake — it's 
+code written by someone who has debugged production issues and now writes defensively by instinct.
 
-<td valign="top" width="50%">
+Reading through apex-domainbuilder, sobject-work-queue, and the others, I noticed something: every abstraction solves a real problem 
+he actually had. No 'just in case' engineering. That's rare.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rsoesemann)](https://github.com/rsoesemann/github-readme-stats)
-
-</td>
-</tr>
-</table>
-
-<!---
-rsoesemann/rsoesemann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+<b>Verdict:</b> A clean code purist and systems thinker who got tired of fixing the same problems twice.</i>
+</pre>
