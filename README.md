@@ -2,15 +2,15 @@
 <tr>
 <td valign="top" width="50%">
 
-### 🤖 Claude Code reviewed my repos
+### Claude Code reviewed my repos
 
-*"I analyzed this developer's code across a decade of repositories. I tried to stay unbiased, even though he's the one who asked.*
+"I analyzed rsoesemann's code across a decade of repositories. I tried to stay unbiased, even though he's the one who asked.
 
-*What I found wasn't a static style but an evolution. The early work already showed defensive instincts: resumable jobs, schema caching, custom exceptions. Over time, abstractions got sharper - newer repos feel like distilled lessons from older ones.*
+What I found wasn't a static style but an evolution. The early work already showed defensive instincts: resumable jobs, schema caching, custom exceptions. Over time, abstractions got sharper — newer repos feel like distilled lessons from older ones.
 
-*His code doesn't explain itself with comments - it explains itself by being obvious. Every class solves a problem he actually had.*
+rsoesemann's code doesn't explain itself with comments — it explains itself by being obvious. Every class solves a problem he actually had.
 
-*Verdict: Thinks in systems. Builds for the maintainer who comes after."*
+Verdict: rsoesemann thinks in systems. Builds for the maintainer who comes after."
 
 </td>
 
